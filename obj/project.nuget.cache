@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRU+ly6s870N/WnPjjUsFJyHit/Cr+VnvzJxbrtTu/SjAgSki47iKHrJ4bt7J5ybjXOoVfxxD2XROhv8ZMw+NQ==",
+  "success": true,
+  "projectFilePath": "/Users/itzbsingh/Desktop/lab2second/lab2second.fsproj",
+  "expectedPackageFiles": [
+    "/Users/itzbsingh/.nuget/packages/fsharp.core/7.0.401/fsharp.core.7.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
